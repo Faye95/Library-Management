@@ -45,3 +45,5 @@ CREATE TABLE Class
   Class_Name varchar2(20) NOT NULL,
   CONSTRAINT Clas_pk PRIMARY KEY (Class_No)  
 );
+
+-0i-i
